@@ -1,0 +1,93 @@
+{
+  "id": "2167001",
+  "name": "巴莫web端项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18411650",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "18411634",
+      "name": "形状",
+      "font_class": "xingzhuang",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
+      "icon_id": "18396242",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e7f0",
+      "unicode_decimal": 59376
+    },
+    {
+      "icon_id": "18344558",
+      "name": "收起",
+      "font_class": "shouqi",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "17950612",
+      "name": "仓储管理",
+      "font_class": "cangchuguanli",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "17950578",
+      "name": "shebei",
+      "font_class": "shebei",
+      "unicode": "e7b6",
+      "unicode_decimal": 59318
+    },
+    {
+      "icon_id": "17950470",
+      "name": "生产执行",
+      "font_class": "shengchanzhihang",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "17949573",
+      "name": "计划达成",
+      "font_class": "jihuadacheng",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "17949253",
+      "name": "批次查询",
+      "font_class": "picichaxun",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "17942902",
+      "name": "综合看板svg",
+      "font_class": "zonghekanbansvg",
+      "unicode": "e7b1",
+      "unicode_decimal": 59313
+    },
+    {
+      "icon_id": "17938581",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e7ad",
+      "unicode_decimal": 59309
+    },
+    {
+      "icon_id": "17938586",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    }
+  ]
+}
